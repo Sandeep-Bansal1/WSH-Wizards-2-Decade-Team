@@ -5,4 +5,4 @@ Throughout  watching the Last Dance, I continuously asked myself the same questi
 
 Ultimately, this inspired me to look into my own favorite team's history and relive some of the memories of some of the great athletes who playedplayers to play for the Washington Wizards. By utilizing mMachine lLearning, I generated the Wizards Dream Team of the past 2 decades.
   
-The two questions I aim to answer are: **Whose on this team?, and did Michael Jordan do enough in his one year stint to make it? Buckle your seatbelts, as the results may surprise you!**
+The two questions I aim to answer are: **Whose on this team?, and did Michael Jordan do enough in his two years stint to make it? Buckle your seatbelts, as the results may surprise you!**
